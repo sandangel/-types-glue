@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "@types/hapi": "*"
-  }
+  },
+  "private": true
 }
